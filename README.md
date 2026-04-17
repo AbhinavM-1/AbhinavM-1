@@ -87,5 +87,16 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <
+
+  <p align="center">
+  <a href="https://github.com/AbhinavM-1">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://https://www.linkedin.com/in/abhinav-mandal-44a143374/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx4li2ydrTg%2B0%2BRsXMIP4zQ%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:abhinavkumar21at@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
