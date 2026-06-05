@@ -68,11 +68,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavM-1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavM-1&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavM-1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhinavM-1&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhinavM-1&theme=github_dark&utcOffset=5.5" alt="GitHub Productive Time" />
 </p>
 
 ---
@@ -80,23 +81,23 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavM-1&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavM-1&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-
-  <p align="center">
+<p align="center">
   <a href="https://github.com/AbhinavM-1">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/abhinav-mandal-44a143374">
+
+  <a href="https://www.linkedin.com/in/abhinav-mandal-44a143374">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
- 
   </a>
 
   <a href="mailto:abhinavkumar21at@gmail.com">
     <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+</p>
